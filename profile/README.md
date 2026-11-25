@@ -43,5 +43,5 @@ Quer um projeto parecido para o seu negócio? Abra uma
 ---
 
 <div align="center">
-<sub>Feito com ☕ e TypeScript pela equipe DevDooms.</sub>
+<sub>Equipe DevDooms.</sub>
 </div>
